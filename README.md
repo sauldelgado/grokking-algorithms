@@ -8,20 +8,20 @@
 </p>
 
 # Chapter 1
-|   | #   | Problem         | Solution | Difficulty | Note |
-|-- |:---:|:---------------:|:--------:|:----------:|:----:|
-| | - | Binary search | Easy | The binary search takes a sorted array and an item. If the item is in the array, the function returns its position | |
+|   | #   | Problem         | Difficulty |  Note |
+|-- |:---:|:---------------:|:--------:|:----------:|
+| | - | Binary search | Easy | The binary search takes a sorted array and an item. If the item is in the array, the function returns its position |
 
 # Chapter 2
-|   | #   | Problem         | Solution | Difficulty | Note |
-|-- |:---:|:---------------:|:--------:|:----------:|:----:|
-| | - | Find smallest | Easy | Finds the smallest element in an array | |
-| | - | Selection sort | Easy | Sorts an array from smallest to largest | |
+|   | #   | Problem         | Difficulty | Note |
+|-- |:---:|:---------------:|:--------:|:----------:|
+| | - | Find smallest | Easy | Finds the smallest element in an array |
+| | - | Selection sort | Easy | Sorts an array from smallest to largest |
 
 # Chapter 4
-|   | #   | Problem         | Solution | Difficulty | Note |
-|-- |:---:|:---------------:|:--------:|:----------:|:----:|
-| | 4.1 | Array sum | Easy | Using recursion, sum the elements of an array | |
-| | 4.2 | List count | Easy | Using recursion, count the number of items in a list | |
-| | 4.3 | Find maximum | Easy | Find the maximum number in a list | |
-| | 4.4 | Recursive binary search | Easy | Using recursion, come up with the base case and recursive case for binary search | |
+|   | #   | Problem         | Difficulty | Note |
+|-- |:---:|:---------------:|:--------:|:----------:|
+| | 4.1 | Array sum | Easy | Using recursion, sum the elements of an array |
+| | 4.2 | List count | Easy | Using recursion, count the number of items in a list |
+| | 4.3 | Find maximum | Easy | Find the maximum number in a list |
+| | 4.4 | Recursive binary search | Easy | Using recursion, come up with the base case and recursive case for binary search |
