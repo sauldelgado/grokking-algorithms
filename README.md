@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-7-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-8-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
@@ -25,3 +25,4 @@
 | | 4.2 | List count | Easy | Using recursion, count the number of items in a list |
 | | 4.3 | Find maximum | Easy | Find the maximum number in a list |
 | | 4.4 | Recursive binary search | Easy | Using recursion, come up with the base case and recursive case for binary search |
+| | - | Quicksort | Easy | Quicksort algorithm implementation |
