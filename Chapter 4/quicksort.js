@@ -5,7 +5,7 @@ function quicksort(array) {
         if (array[0] > array[1]) array.reverse();
         return array;
     } else {
-        let pivot = Math.floor(((0 + array.length) / 2));
+        let pivot = Math.floor(Math.random() * array.length);
         let lesser = [];
         let greater = [];
         for (let i = 0; i < array.length; i++) {
